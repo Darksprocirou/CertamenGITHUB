@@ -15,7 +15,7 @@ import android.widget.Spinner;
 import android.widget.Toast;
 
 import java.util.ArrayList;
-//https://github.com/Darksprocirou/Certamen.git
+//https://github.com/Darksprocirou/CertamenGITHUB.git
 public class MainActivity extends AppCompatActivity {
     EditText ID, Nombre, Cantidad, Precio;
     Spinner Categoria, Ubicacion;
